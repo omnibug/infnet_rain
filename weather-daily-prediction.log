@@ -1,0 +1,9 @@
+Connecting to redis
+Preparing data
+normalize features
+loading model
+model loaded
+make a prediction
+Predicted RainLevel: 970 
+Collected at: 05/28/2018 04:57:55 pm RainLevel: 888
+Test Error: 82.537
